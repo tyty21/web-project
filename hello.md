@@ -1,10 +1,3 @@
-#include <stdio.h>
-
-int main()
-{ 
-printf("hello\n 
-web-project\n");
-return o;
-}
+#HELLO
 
 Welcome to the NEW Project!
