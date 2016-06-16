@@ -1,4 +1,5 @@
-# Hello World!
-Web-Project
-
-The new Project ON-LINE
+<html>
+<body>
+Azi e <?php print date( 'd.m.Y' ); ?>
+</body>
+</html>
